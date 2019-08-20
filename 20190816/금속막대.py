@@ -11,14 +11,8 @@ for test_case in range(1, T+1):
                 break
             if j == N-1:
                 connect += [driver[2*i],driver[2*i+1]]
-    while True:
+    for j in range(0, N):
         for i in range(0, N):
             if connect[-1] == driver[2*i]:
                 connect += [driver[2*i],driver[2*i+1]]
-        if len(connect) == len(driver):
-            break
-    print('#{}'.format(test_case),end=' ')
-    for i in connect:
-        print(i,end=' ')
-    print()
-    
+    print('#{} {}'.format(test_case, ' '.join(list(map(str,connect)))))
