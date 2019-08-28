@@ -6,68 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f372eac1-fa29-46c8-bc3c-3e556b4cc07c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/problem.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4올림픽종목투표.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/D4올림픽종목투표.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/01k.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/01k.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/2048.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/2048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/2일차sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/2일차sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_상호의 배틀필드.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_상호의 배틀필드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_세상의 모든 팰린드롬.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_세상의 모든 팰린드롬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_수의새로운연산.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_수의새로운연산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_원재의벽꾸미기.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_원재의벽꾸미기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_이진 문자열 복원.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_이진 문자열 복원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_자석.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_자석.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/D3_최장 증가 부분 수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/D3_최장 증가 부분 수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/GNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/GNS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/GNS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/GNS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/asdfsdaf.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/asdfsdaf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/bread.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/bread.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/deter.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/deter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/ffdfd.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/ffdfd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/ham.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/ham.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/knapsack.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/knapsack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/mag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/mag.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/matsum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/matsum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/nqueen.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/nqueen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/qkq밥밥.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/qkq밥밥.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/건초더미.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/건초더미.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/글자수.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/글자수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/달숫.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/달숫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/문자뒤집기.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/문자뒤집기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/부분수열의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/부분수열의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/부분증가수열_이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/부분증가수열_이진탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/부분집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/비밀번호.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/비밀번호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/비범.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/비범.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/상호의배틀필드.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/상호의배틀필드.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/상호의배틀필드2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/상호의배틀필드2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/새샘이의 7-3-5 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/새샘이의 7-3-5 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/선택정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/선택정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/세상의 모든 팰린드롬 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/세상의 모든 팰린드롬 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/수의새로운연산.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/수의새로운연산.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/암호생성기.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/암호생성기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/영준이의 카드 카운팅.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/영준이의 카드 카운팅.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/진기의 최고급 붕어빵.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/진기의 최고급 붕어빵.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/최장 증가 부분 수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/최장 증가 부분 수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/최장공통부분수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/최장공통부분수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/태혁이의 사랑은 타이밍.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/태혁이의 사랑은 타이밍.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/핀볼.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/핀볼.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/핀볼.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/핀볼.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/항구에 들어오는 배.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/항구에 들어오는 배.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/햄버거다이어트.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/햄버거다이어트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/현주의 상자 바꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/현주의 상자 바꾸기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/홈방범.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/홈방범.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/홈방범서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/홈방범서비스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/홍준이의 숫자놀이.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/홍준이의 숫자놀이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/회문" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/회문" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/회문 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/회문 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/회문1.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/회문1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/회문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/회문2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/그외/회문2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/그외/푼 문제/회문2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190827/토너먼트카드게임.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20190827/토너먼트카드게임.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/그외/08 4주/단조증가하는수.py" beforeDir="false" afterPath="$PROJECT_DIR$/그외/08 4주/단조증가하는수.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,35 +54,36 @@
     <session id="-2018632430">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="9" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="33" />
-          <entry key="txt" value="10" />
+          <entry key="py" value="72" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="33" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="2" />
-          <entry key="py" value="16098" />
-          <entry key="txt" value="497" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="29033" />
+          <entry key="txt" value="1096" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="499" />
-          <entry key="Python" value="16098" />
+          <entry key="PLAIN_TEXT" value="1100" />
+          <entry key="Python" value="29033" />
         </counts>
       </usages-collector>
     </session>
@@ -149,30 +91,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190827/배열최소합.py">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/해피박스.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/그외/08 4주/단조증가하는수.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="37" selection-end-line="14" selection-end-column="37" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="28" />
+              <folding>
+                <marker date="1566971808144" expanded="true" signature="75:398" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/그외/08 4주/전자카트.txt">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/suffle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="209">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/원자소멸 시뮬레이션.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/원자소멸2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/원자소멸.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/bfs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <marker date="1566973553855" expanded="true" signature="50:55" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/BFS.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/부분집합의합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <marker date="1566975464793" expanded="true" signature="92:341" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/imp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-88">
+              <caret selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/그외/08 4주/부분집합의합.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -186,14 +196,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>work</find>
-      <find>M</find>
       <find>scr</find>
       <find>ham</find>
       <find>print</find>
       <find>PAB[0]</find>
       <find>PAB[2]</find>
-      <find>i</find>
       <find>count</find>
       <find>left</find>
       <find>19</find>
@@ -205,6 +212,20 @@
       <find>return</find>
       <find>N</find>
       <find>visited</find>
+      <find>123456</find>
+      <find>1</find>
+      <find>12345567</find>
+      <find>4321</find>
+      <find>87654321</find>
+      <find>1234</find>
+      <find>12345678</find>
+      <find>cards</find>
+      <find>(N-i-1)</find>
+      <find>left2</find>
+      <find>['8', '2', '10', '7', '12', '4', '9', '1', '6', '3', '11', '5']</find>
+      <find>i</find>
+      <find>battery</find>
+      <find>torna</find>
     </findStrings>
     <replaceStrings>
       <replace>bu</replace>
@@ -216,6 +237,9 @@
       <replace>tmp2</replace>
       <replace>word</replace>
       <replace>cal_stack</replace>
+      <replace>(N-i-1)</replace>
+      <replace>j</replace>
+      <replace>right</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -224,38 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/그외/D3_상호의 배틀필드.py" />
-        <option value="$PROJECT_DIR$/그외/deter.py" />
-        <option value="$PROJECT_DIR$/그외/d.py" />
-        <option value="$PROJECT_DIR$/그외/D3_자석.py" />
-        <option value="$PROJECT_DIR$/그외/ffdfd.py" />
-        <option value="$PROJECT_DIR$/그외/선택정렬.py" />
-        <option value="$PROJECT_DIR$/그외/달숫.py" />
-        <option value="$PROJECT_DIR$/그외/2일차sum.py" />
-        <option value="$PROJECT_DIR$/20190816/색칠하기.py" />
-        <option value="$PROJECT_DIR$/그외/부분집합.py" />
-        <option value="$PROJECT_DIR$/20190816/부분집합의합.py" />
-        <option value="$PROJECT_DIR$/20190816/이진탐새.py" />
-        <option value="$PROJECT_DIR$/20190816/이진탐색.py" />
-        <option value="$PROJECT_DIR$/20190816/특별한정렬.py" />
-        <option value="$PROJECT_DIR$/그외/D3_수의새로운연산.py" />
-        <option value="$PROJECT_DIR$/그외/D3_원재의벽꾸미기.py" />
-        <option value="$PROJECT_DIR$/그외/asdfsdaf.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/연습1.py" />
-        <option value="$PROJECT_DIR$/그외/핀볼.txt" />
-        <option value="$PROJECT_DIR$/그외/핀볼3.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/nqueen.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/ptpt.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/보호 필름.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/부분집합.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/dd.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/순열.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/계산기.txt" />
-        <option value="$PROJECT_DIR$/그외/08 4주/잔다.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/계산기.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/디저트카페.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/asdfadsf.py" />
-        <option value="$PROJECT_DIR$/그외/08 4주/최대상금.txt" />
         <option value="$PROJECT_DIR$/그외/08 4주/최대상금.py" />
         <option value="$PROJECT_DIR$/그외/08 4주/디저트카페2.py" />
         <option value="$PROJECT_DIR$/그외/08 4주/디저트카페.txt" />
@@ -268,21 +260,52 @@
         <option value="$PROJECT_DIR$/20190827/배열최소하.py" />
         <option value="$PROJECT_DIR$/그외/0821실습.py" />
         <option value="$PROJECT_DIR$/20190827/토너먼트카드게임.py" />
-        <option value="$PROJECT_DIR$/20190827/토너먼트카드게임.txt" />
-        <option value="$PROJECT_DIR$/20190827/배열최소합.py" />
         <option value="$PROJECT_DIR$/그외/이진수.py" />
         <option value="$PROJECT_DIR$/그외/08 4주/최소합.py" />
         <option value="$PROJECT_DIR$/그외/08 4주/전자카트.txt" />
         <option value="$PROJECT_DIR$/그외/08 4주/전자카트.py" />
+        <option value="$PROJECT_DIR$/20190827/토너먼트카드게임.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/일분배.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/세소수.py" />
+        <option value="$PROJECT_DIR$/20190827/배열최소합.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/사각형.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/사각형.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/최장경로.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/imp.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/ree.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/sadfasdf.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/suffle.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/암호문1.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/암호문2.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/암호문3.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/단순2진암호.py" />
         <option value="$PROJECT_DIR$/그외/08 4주/단조증가하는수.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/queue.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/전기버스2.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/전기버스2.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/최소생산비용.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/암호코드스캔.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/병합정렬.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/타일 붙히기.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/타일 붙이기.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/종이붙이기_재귀.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/종이붙이기_DP.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/해피박스.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/해피박스.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/BFS.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/bfs.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/부분집합의합.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/원자소멸.txt" />
+        <option value="$PROJECT_DIR$/그외/08 4주/suffle.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/원자소멸2.py" />
+        <option value="$PROJECT_DIR$/그외/08 4주/원자소멸 시뮬레이션.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="819" />
-    <option name="y" value="143" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
-    <option name="height" value="861" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -292,18 +315,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="problem" type="b2602c69:ProjectViewProjectNode" />
               <item name="problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="problem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="problem" type="462c0819:PsiDirectoryNode" />
-              <item name="20190827" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="problem" type="b2602c69:ProjectViewProjectNode" />
@@ -320,6 +337,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,29 +355,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.단조증가하는수">
-    <configuration name="이진수 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="problem" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/이진수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.원자소멸 시뮬레이션">
+    <configuration name="원자소멸 시뮬레이션" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,7 +368,301 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/최소합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/원자소멸 시뮬레이션.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="부분집합의합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/부분집합의합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="원자소멸2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/원자소멸2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="특별한정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190816" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190816/특별한정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="토너먼트카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190827" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190827/토너먼트카드게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="배열최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190827" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190827/배열최소합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="세소수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/세소수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최장경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/최장경로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="배열최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190827" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190827/배열최소합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190827" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190827/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="달숫" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/달숫.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="전기버스" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop/전기버스.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="구간합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop/구간합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="사각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/사각형.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="최장경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/최장경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,6 +684,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/전자카트.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="배열최소합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190827" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190827/배열최소합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -485,7 +797,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="특별한정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,11 +805,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190816" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190816/특별한정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/bfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,7 +818,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="달숫" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="suffle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -514,53 +826,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그외/08 4주" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/달숫.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="전기버스" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="problem" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop/전기버스.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="구간합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="problem" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop/구간합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그외/08 4주/suffle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -570,19 +840,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.배열최소합" />
-      <item itemvalue="Python.이진수 (1)" />
-      <item itemvalue="Python.최소합" />
-      <item itemvalue="Python.전자카트" />
-      <item itemvalue="Python.단조증가하는수" />
+      <item itemvalue="Python.bfs" />
+      <item itemvalue="Python.부분집합의합" />
+      <item itemvalue="Python.원자소멸 시뮬레이션" />
+      <item itemvalue="Python.원자소멸2" />
+      <item itemvalue="Python.suffle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.단조증가하는수" />
-        <item itemvalue="Python.전자카트" />
-        <item itemvalue="Python.최소합" />
-        <item itemvalue="Python.이진수 (1)" />
-        <item itemvalue="Python.배열최소합" />
+        <item itemvalue="Python.원자소멸 시뮬레이션" />
+        <item itemvalue="Python.suffle" />
+        <item itemvalue="Python.원자소멸2" />
+        <item itemvalue="Python.부분집합의합" />
+        <item itemvalue="Python.bfs" />
       </list>
     </recent_temporary>
   </component>
@@ -601,6 +871,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1227608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -646,224 +917,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/그외/부분집합.py" />
-    <entry file="file://$PROJECT_DIR$/20190816/색칠하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/수의새로운연산.txt" />
-    <entry file="file://$PROJECT_DIR$/20190816/부분집합의합.py">
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/전자카트.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="32" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190816/이진탐색.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190816/이진탐색.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190816/특별한정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/D3_수의새로운연산.py" />
-    <entry file="file://$PROJECT_DIR$/그외/D3_원재의벽꾸미기.py" />
-    <entry file="file://$PROJECT_DIR$/그외/asdfsdaf.py" />
-    <entry file="file://$PROJECT_DIR$/그외/원재의벽꾸미기.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/핀볼2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1083" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/연습1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/핀볼.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="80" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/일분배.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/핀볼.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-843">
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/보호필름.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/핀볼3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/ptpt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-589">
-          <caret line="2" lean-forward="true" selection-end-line="71" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/보호 필름.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/부분집합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/순열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/nqueen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/dd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/잔다.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="48" column="37" lean-forward="true" selection-end-line="48" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/계산기.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/최대상금.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <marker date="1566820344759" expanded="true" signature="526:529" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/최대상금.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="8" selection-start-column="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/asdfadsf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/디저트카페.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="86" column="57" lean-forward="true" selection-end-line="104" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/디저트카페.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/디저트카페2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="54" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/디저트카페 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/이진수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" lean-forward="true" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190827.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/계산기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="45" selection-end-column="20" />
-          <folding>
-            <marker date="1566811645618" expanded="true" signature="38:39" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 3주/asdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -871,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="29" />
-          <folding>
-            <marker date="1566869771024" expanded="true" signature="41:42" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,82 +938,323 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그외/창용마을 무리의 개수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190827/Forth.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/0821실습.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190827/토너먼트카드게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1460">
-          <caret line="73" column="53" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
-          <folding>
-            <marker date="1566874675599" expanded="true" signature="84:224" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20190827/토너먼트카드게임.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190827/배열최소합.txt">
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/일분배.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/일분배.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/부분집합_완전.py" />
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/세소수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="29" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/최장경로.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/그외/이진수.py">
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/사각형.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="17" lean-forward="true" selection-end-line="18" selection-end-column="17" />
+          <caret line="18" column="20" selection-end-line="30" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/최소합.py">
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/사각형.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="437">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/전자카트.txt">
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/sadfasdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/ree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/suffle.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/암호문.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/암호문1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" lean-forward="true" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/암호문2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/암호문2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="32" lean-forward="true" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/암호문3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/단순2진암호.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/단순2진암호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/그외/08 4주/전자카트.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190827/배열최소합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <marker date="1566960432489" expanded="true" signature="18:23" ph="..." />
+            <marker date="1566960432489" expanded="true" signature="165:538" ph="..." />
+            <marker date="1566960432489" expanded="true" signature="335:461" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/그외/08 4주/단조증가하는수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="361">
+          <caret line="19" column="14" lean-forward="true" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/디저트카페.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/전기버스2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/전기버스2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="41" lean-forward="true" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <marker date="1566965596619" expanded="true" signature="489:491" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190827/배열최소합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <marker date="1566886158095" expanded="true" signature="77:82" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/최소생산비용.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/최소생산비용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="61" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/암호코드스캔.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20418">
+          <caret line="15221" selection-start-line="15221" selection-end-line="15221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190827/토너먼트카드게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="51" column="40" lean-forward="true" selection-end-line="73" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/병합정렬.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/병합정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/최장경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190822/종이붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/종이붙이기_DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="33" lean-forward="true" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/종이붙이기_재귀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/타일 붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/타일붙이기.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/해피박스.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="9" column="3" lean-forward="true" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/해피박스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <marker date="1566971808144" expanded="true" signature="75:398" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/BFS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <marker date="1566973553855" expanded="true" signature="50:55" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190816/부분집합의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="true" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/부분집합의합.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/부분집합의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <marker date="1566975464793" expanded="true" signature="92:341" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/원자소멸.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/suffle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/원자소멸2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/그외/08 4주/원자소멸 시뮬레이션.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>
